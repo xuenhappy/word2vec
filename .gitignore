@@ -2,3 +2,7 @@
 /.project
 /build/
 .*
+GPATH
+word2vec
+GRTAGS
+GTAGS
